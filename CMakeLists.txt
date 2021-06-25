@@ -12,7 +12,7 @@
 ##############################################################################################
 # Define the project and the depencies that it has
 ##############################################################################################
-CMAKE_MINIMUM_REQUIRED(VERSION 2.8.5)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8.12)
 PROJECT(Learning Fortran)
 # Set the project version
 SET(VERSION 0.1)

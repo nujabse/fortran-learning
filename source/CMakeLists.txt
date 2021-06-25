@@ -17,6 +17,7 @@
 # Source files in root directory
 # Sources in sub-directories
 add_subdirectory(chapter6)
+add_subdirectory(chapter7)
 #############################################################################################
 
 
