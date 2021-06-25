@@ -1,0 +1,11 @@
+.DS_Store
+/build/
+CMakeFiles/
+cmake-*-*/
+/CMakeCache.txt
+*.out
+qr_*.f90
+/source/chapter6/sqrt_root
+.DS_Store
+*.cmake
+Makefile
