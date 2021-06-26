@@ -9,3 +9,4 @@ qr_*.f90
 .DS_Store
 *.cmake
 Makefile
+*.mod
