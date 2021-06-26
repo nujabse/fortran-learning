@@ -6,3 +6,7 @@ program bad_call
 end program bad_call
 
 subroutine bad_argument(i)
+   implicit none
+   integer::i
+   write (*, *) ' i = ', i
+end subroutine bad_argument
